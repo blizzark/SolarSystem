@@ -1,0 +1,20 @@
+C:\Project\Уланов\6 семек\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Project\Уланов\6 семек\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Project\Уланов\6 семек\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Project\Уланов\6 семек\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Project\Уланов\6 семек\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Project\Уланов\6 семек\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Project\Уланов\6 семек\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Project\Уланов\6 семек\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Project\Уланов\6 семек\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Project\Уланов\6 семек\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Project\Планеты\Lab1\bin\Debug\Lab1.exe.config
+C:\Project\Планеты\Lab1\bin\Debug\Lab1.exe
+C:\Project\Планеты\Lab1\bin\Debug\Lab1.pdb
+C:\Project\Планеты\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Project\Планеты\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Project\Планеты\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Project\Планеты\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Project\Планеты\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Project\Планеты\Lab1\obj\Debug\Lab1.exe
+C:\Project\Планеты\Lab1\obj\Debug\Lab1.pdb
